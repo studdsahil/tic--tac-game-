@@ -1,0 +1,40 @@
+/* body{
+    text-align: center;
+} */
+table,tr,td{
+
+    border-collapse: collapse;
+    margin-left: 35%;
+}
+.cell{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 100px;
+    cursor: pointer;
+}
+div{
+    padding:5px ;
+}
+#playerTurn{
+    font-size: 20px;
+}
+#turn{
+    font-size: 30px;
+}
+button{
+    font-size: 30px;
+    cursor: pointer;
+}
+#result{
+    color: red;
+    font-size: 50px;}
+
+section{
+    margin-left: 40%;
+}
+h1{
+    font-size: 50px;
+    margin-left: 30%;
+}
